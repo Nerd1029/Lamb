@@ -1,3 +1,8 @@
 {
-    "python.terminal.executeInFileDir": true
+  "python.terminal.executeInFileDir": true,
+  "python.showStartPage": false,
+  "python.languageServer": "Pylance",
+  "python.analysis.typeCheckingMode": "basic",
+  "editor.codeLens": true,
+  "python.enablePyLint": true
 }

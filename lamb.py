@@ -1,5 +1,8 @@
 import socket; import sys; import os; import platform; import subprocess
 
+if platform.system() != "Darwin":
+    sys.exit("Session killed due to OS incompatibility :(.")
+
 try:
     import colorama
 except ModuleNotFoundError:

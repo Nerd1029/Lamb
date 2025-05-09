@@ -1,3 +1,4 @@
 {
-    "notebook.consolidatedRunButton": true
+    "notebook.consolidatedRunButton": true,
+    "python.terminal.executeInFileDir": true
 }

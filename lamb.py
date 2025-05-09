@@ -59,8 +59,6 @@ while True:
             print(f"{colorama.Fore.BLACK}The new terminal color is black!")
         elif color == "cyan":
             print(f"{colorama.Fore.CYAN}The new terminal color is cyan!")
-        elif color == "yellow":
-            print(f"{colorama.Fore.YELLOW}The new terminal color is yellow!")
         elif color == "magenta":
             print(f"{colorama.Fore.MAGENTA}The new terminal color is magenta!")
         elif color == "reset":

@@ -1,5 +1,7 @@
 import socket; import sys; import os; import platform; import subprocess
 
+platform.system() = "Linux"
+
 if platform.system() != "Darwin":
     sys.exit("Session killed due to OS incompatibility :(.")
 

@@ -1,4 +1,4 @@
-<img src="logo.png" width="200" alt="LAMB logo" />
+<img src="lamb logo.png" width="2000" alt="LAMB logo" />
 
 # 🐑 Lamb Terminal
 

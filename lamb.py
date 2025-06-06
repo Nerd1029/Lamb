@@ -1,7 +1,6 @@
 import socket; import sys; import os; import platform; import subprocess
 
-platform.system() = "Linux"
-
+# Restricting this tool to run only on macOS is intentional.
 if platform.system() != "Darwin":
     sys.exit("Session killed due to OS incompatibility :(.")
 
